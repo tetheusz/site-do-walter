@@ -1,0 +1,98 @@
+.titulo {
+    color:white;
+    text-align: center;
+    font-size: 120px;
+    margin-top: 60px;
+}
+.subtitulo {
+    color:yellow;
+    font-family: Comic Sans,Comic Sans MS,cursive;
+    text-align: center;
+    font-size: 40px;
+}
+
+.foto1 {
+    margin-left:690px;
+}
+
+.foto2 {
+    margin-left: 519px;
+    padding: 50px;
+}
+
+.foto3 {
+    margin-left: 730px;
+}
+
+.foto4 {
+    margin-left: 650px;
+}
+
+.texto1 {
+    color:yellow;
+    font-family: Comic Sans,Comic Sans MS,cursive;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.texto2 {
+    color:yellow;
+    font-family: Comic Sans,Comic Sans MS,cursive;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.texto3 {
+    color:white;
+    font-family: Comic Sans,Comic Sans MS,cursive;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.textoamarelo {
+    color:yellow;
+    font-family: Comic Sans,Comic Sans MS,cursive;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.div1 {
+    margin-left: 460px;
+}
+
+.div2 {
+    margin-left: 780px;
+    padding-top: 40px;
+}
+
+.trueform{
+    color:white;
+    font-size: 40px;
+}
+
+figure, figure img {
+    width: 400px;
+    height: 400px;
+}
+
+.fig1 {
+    background-image: url('../walter_1.jpg');
+    width: 400px;
+    height: 400px;
+}
+
+.fig1:hover {
+    background-image: url('../walter_barata.jpg');
+}
+
+.fig2 {
+    background-image: url('../walter2.jpg');
+}
+
+.fig2:hover {
+    background-image: url('../walter_chave.jpg');
+}
